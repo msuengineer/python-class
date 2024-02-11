@@ -48,7 +48,11 @@ p[1]      # use to find the word at which adress [1]=alphabet adress is o   '''/
 p[1:9]    # {slicing}        '''/otuput=o/'''
 p[1:9:4]  # 1:9 tell 1 value to nine and 4  {three parameter slicing}    '''/otuput=omputer /'''
           # describe to add 4 after the out put value    '''/otuput=ot/'''
-# how three slicing work '''/[start:end:diff/direction]/'''
+# how three slicing work '''/
+#[start:end:diff/direction]/'''
 
 '''/-ve sign -> direction of reading of reading is from R=L/'''
 '''/-ve sign -> direction of reading of reading is from L=R/'''
+
+s[0]=z #you can change this immutible
+
