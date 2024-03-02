@@ -1,0 +1,23 @@
+d={
+    "child1":{
+        "name":"ali",
+        "year":2009
+        },
+    "child2":{
+        "name":"ahmed",
+        "year":2010
+        },
+    "child1":{
+        "name":"ali",
+        "year":2009
+        },
+    "child1":{
+        "name":"ali",
+        "year":2009
+        },
+    "child3":{
+        "name":"ali",
+        "year":2005
+        }
+    }
+    
