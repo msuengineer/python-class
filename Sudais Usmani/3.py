@@ -14,10 +14,4 @@ if not(x>11): # and table
 if not(x<11): # and table 
      print("it will inverse or says flase to true condition and vice versa")
 
-
- '''/identy operator/'''
- '''/in shell/'''
-  '''/identy operator/'''
-
-
  
