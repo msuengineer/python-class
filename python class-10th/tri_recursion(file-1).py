@@ -3,7 +3,8 @@ def tri_recursion(k):
         result = k + tri_recursion(k-1)
         print(result)
     else:
-        result=0
+        result = 0
     return result
 print("\n\n Recursion Example Result")
 tri_recursion(int(input("Enter num")))
+

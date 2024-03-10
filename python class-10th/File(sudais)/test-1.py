@@ -1,0 +1,16 @@
+file=open("C:\\Users\\Admin1\\Pictures\\1.txt","r")
+print(file.read())
+
+##file.write("\nwriting operation")
+##file.close()
+##print(file.tell())
+##print(file.seek(5))
+##print(file.read())
+##print(file.readline())
+##print(file.readline())
+##print(file.readline())
+##print(file.readline())
+##print(file.read())
+##print(file.read(6))
+##print(file.readlines())
+ 
