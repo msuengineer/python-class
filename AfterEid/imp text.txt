@@ -1,0 +1,4 @@
+syntax to call decorator:
+@<decorator>			<----->		<function defination>
+<function definition>		<----->		function=decorator(function)
+
